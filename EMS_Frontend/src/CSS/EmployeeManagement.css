@@ -1,0 +1,29 @@
+/* All buttons */
+.employee-btn {
+    cursor: pointer;
+    border-radius: 3px;
+    color: white;
+    width: 400px;
+    height: 30px;
+    font-size: 16px;
+    background: #2563eb;
+    font-weight: 550;
+}
+
+.employee-btn:hover {
+    background: #5188fe;
+}
+
+.clear-btn {
+    border-radius: 3px;
+    color: white;
+    width: 220px;
+    height: 30px;
+    font-size: 16px;
+    background: #2563eb;
+    cursor: pointer;
+}
+
+.clear-btn:hover {
+    background: #dc2626;
+}
